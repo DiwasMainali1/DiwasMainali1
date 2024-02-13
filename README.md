@@ -1,6 +1,6 @@
-# h1 Hi! I am Diwas
+# Hi! I am Diwas
 
-### h3 Welcome to my github profile!
+### Welcome to my github profile!
 
 + I love playing chess, guitar and tennis.  
 + You will mostly find me making `coding programs` that suits my interests. 
