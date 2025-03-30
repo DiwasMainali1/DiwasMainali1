@@ -1,4 +1,4 @@
-## Hi! I am Diwas and welcome to my GitHub! :)
+## Hi, I am Diwas and welcome to my GitHub! :)
 
 + You will mostly find me making programs that I believe are useful for others.
 + Currently a final year studying Computer Science in UNSW.
